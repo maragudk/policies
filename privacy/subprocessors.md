@@ -1,4 +1,4 @@
-# PodHeart subprocessors
+# Subprocessors
 
 PodHeart uses third party subprocessors to provide my services. I enter into GDPR-compliant data processing agreements with each subprocessor, extending GDPR safeguards everywhere personal data is processed.
 
