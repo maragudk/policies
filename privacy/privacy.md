@@ -31,7 +31,7 @@ You may have heard about the General Data Protection Regulation (“GDPR”) in 
 * **Right to Portability.** This is your right to receive the personal information I have about you and the right to transmit it to another party.
 * **Right to not be subject to Automated Decision-Making.** This is your right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and me, is allowed by applicable European law, or is based on your explicit consent.
 
-Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact me at [support@basecamp.com](mailto:support@podheart.com).
+Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact me at [support@podheart.com](mailto:support@podheart.com).
 
 ## Processors I use
 
