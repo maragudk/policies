@@ -1,4 +1,4 @@
-# PodHeart Terms of Service
+# Terms of Service
 
 By using the PodHeart website and app ("Service"), you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 
