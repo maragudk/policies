@@ -43,9 +43,7 @@ PodHeart won’t hand your data over to law enforcement unless a court order say
 
 ## Security & Encryption
 
-All data is encrypted via SSL/TLS when transmitted from my servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in the database (since it needs to be ready to send to you when you need it), but I go to great lengths to secure your data at rest—you can read more about that on the [security page](/security/overview.md).
-
-For more information about how I keep your information secure, please review the [security overview](/security/overview.md).
+All data is encrypted via SSL/TLS when transmitted from my servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in the database (since it needs to be ready to send to you when you need it), but I go to great lengths to secure your data at rest.
 
 ## Deleted data
 
