@@ -1,4 +1,4 @@
-# PodHeart Privacy Policy
+# Privacy Policy
 
 *This page was last updated on the 14th of October 2019.*
 
